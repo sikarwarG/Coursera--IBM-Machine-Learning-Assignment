@@ -1,2 +1,2 @@
-# Coursera--IBM-Machine-Learning-Assignment
+# Coursera--IBM-Machine-Learning-Project
 Coursera- IBM Machine Learning Assignment
